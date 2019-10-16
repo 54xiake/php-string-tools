@@ -1,0 +1,16 @@
+{
+    "name": "54xiake/php-string-tools",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "Apache-2.0",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Xkcms\\String\\": "src/",
+            "Xkcms\\String\\Test\\":"tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
